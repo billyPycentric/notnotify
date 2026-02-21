@@ -267,7 +267,7 @@ packages:
   notification_service:
     dependency: "direct main"
     description:
-      path: "../notification_service"
+      path: "../../notification_service"
       relative: true
     source: path
     version: "0.1.0"
